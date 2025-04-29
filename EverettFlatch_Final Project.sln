@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "EverettFlatch_Final Project", "EverettFlatch_Final Project\EverettFlatch_Final Project.pyproj", "{FFD69D37-EDD2-4AFD-9B38-10347E207D71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD69D37-EDD2-4AFD-9B38-10347E207D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD69D37-EDD2-4AFD-9B38-10347E207D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7E210D5-CE34-4754-90C3-F83BEC8597C1}
+	EndGlobalSection
+EndGlobal
